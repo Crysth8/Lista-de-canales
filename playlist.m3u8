@@ -39,8 +39,8 @@ https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8?PlaylistM3UCL
 http://45.55.127.106/live/unicanal.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="827" tvg-name="Uniradio TV" tvg-logo="https://cdn.m3u.cl/logo/827_Uniradio_TV.png", Uniradio TV | PY
 https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8?PlaylistM3UCL
-https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8?PlaylistM3UCL
-
+#EXTINF:-1 tvg-id="hboplus" tvg-name="HBO Plus" group-title="Películas", HBO Plus
+https://proxy.streamvid.net/mpd_to_hls?url=https://www.vtvcable.com/mpd.php?id=hboplus&lang=1
 
 
 
